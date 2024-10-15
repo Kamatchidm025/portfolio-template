@@ -5,18 +5,18 @@ const meta = {
 };
 
 const introdata = {
-    title: "Hi, I'm Hari Krishnan",
+    title: "Hi, I'm sarmila",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
+        first: "bharathi",
+        second: "indhu",
+        third: "deva",
+        fourth: "ashu",
+        fifth: "dhivya",
+        sixth: "kamatchi",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    // your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    // your_img_url: "https://img.rolandberger.com/content_assets/content_images/captions/Roland_Berger-24_2195_Humanoid_robots-IT_image_caption_w768.jpg",
     // your_img_url: "https://img.freepik.com/premium-photo/elevate-your-brand-with-friendly-avatar-that-reflects-professionalism-ideal-sales-managers_1283595-18531.jpg", // MALE
     your_img_url: "https://img.freepik.com/free-photo/androgynous-avatar-non-binary-queer-person_23-2151100226.jpg", // FEMALE
 };
